@@ -18,4 +18,4 @@ A sleek, responsive, and user-friendly feedback form designed for modern service
 ##  Project Structure
 
 ```text
-├── index.html
+├── index.html # Main HTML structure
