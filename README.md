@@ -5,3 +5,4 @@ A sleek, responsive, and user-friendly feedback form designed for modern service
 ## Features
 
 * **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
+* **Form Validation:** Built-in HTML5 validation for required fields and data types.
