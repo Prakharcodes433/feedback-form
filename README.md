@@ -7,3 +7,4 @@ A sleek, responsive, and user-friendly feedback form designed for modern service
 * **Responsive Design:** Fully optimized for desktops, tablets, and mobile devices.
 * **Form Validation:** Built-in HTML5 validation for required fields and data types.
 * **Modern UI:** Professional color palette with interactive hover states and shadows.
+* **Accessible Layout:** Uses semantic HTML tags to ensure screen reader compatibility.
