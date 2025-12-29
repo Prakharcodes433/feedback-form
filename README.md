@@ -20,4 +20,4 @@ A sleek, responsive, and user-friendly feedback form designed for modern service
 ```text
 ├── index.html # Main HTML structure
 ├── style.css # Custom CSS styles
-└── script.js
+└── script.js # JavaScript functionality
