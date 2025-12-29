@@ -13,3 +13,4 @@ A sleek, responsive, and user-friendly feedback form designed for modern service
 
 * **HTML5:** Semantic structure.
 * **CSS3:** Flexbox layout and custom styling.
+* **JavaScript:** Linked for potential client-side logic.
