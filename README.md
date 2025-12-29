@@ -10,3 +10,5 @@ A sleek, responsive, and user-friendly feedback form designed for modern service
 * **Accessible Layout:** Uses semantic HTML tags to ensure screen reader compatibility.
 
 ##  Technologies Used
+
+* **HTML5:** Semantic structure.
